@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there 👋 I'm Shukeri
 
-<!--
-**ShukeriJ/shukerij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's in Data Science & Analytics  
+🏫 National University of Malaysia (UKM)  
+💼 Mechanical Engineer at JKR  
+📊 Passionate about Data Analytics, AI & Visualization
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- R Programming
+- Python
+- PySpark
+- SQL
+- Data Visualization
+- NLP & Text Mining
+- Machine Learning
+
+---
+
+## 📌 Current Projects
+
+- Road Accident Data Visualization
+- NLP Sentiment Analysis
+- Web Scraping using R
+- PySpark Machine Learning Project
+
+---
+
+## 🛠️ Tools & Technologies
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Kaggle
+- Email
