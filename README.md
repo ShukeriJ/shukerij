@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Shukeri
 
-🎓 Degree In Mechanical Engineering (Mechanical) | Master's in Data Science & Analytics  
+🎓 Degree In Mechanical Engineering (Mechanical) | Candidate of Master's in Data Science & Analytics  
 
 🏫 Universiti Teknologi Malaysia | National University of Malaysia (UKM)  
 
-💼 Working as Mechanical Engineer at Public Works Department of Malaysia 
+💼 Working as Mechanical Engineer at Public Works Department of Malaysia (PWD), Malaysia Government
 
 📊 Passionate about Data Science, Data Analytics, AI & Visualization, IOT etc.
 
