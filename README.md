@@ -1,4 +1,5 @@
 # Hi there 👋 I'm Shukeri
+---
 
 🎓 Degree In Mechanical Engineering (Mechanical) | Candidate of Master's in Data Science & Analytics  
 
@@ -17,7 +18,7 @@
 
 
 
-📊 Passionate about Data Science, Data Analytics, AI & Visualization, IOT etc.
+📊 Passionate about Knowledge of engineering meets Data Science, Data Analytics, AI & Visualization, IOT etc.
 
 ---
 
@@ -39,6 +40,7 @@
 - NLP Sentiment Analysis
 - Web Scraping using R
 - PySpark Machine Learning Project
+- Movielens 100k
 
 ---
 
