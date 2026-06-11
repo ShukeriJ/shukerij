@@ -1,10 +1,19 @@
 # Hi there 👋 I'm Shukeri
 
 🎓 Degree In Mechanical Engineering (Mechanical) | Candidate of Master's in Data Science & Analytics  
+<img width="269" height="150" alt="image" src="https://github.com/user-attachments/assets/8a23c5b0-3da5-418e-8ebe-3c83df62510b" />
+<img width="269" height="150" alt="image" src="https://github.com/user-attachments/assets/d3616649-c6ca-4afb-8944-a9963776ed96" />
+
 
 🏫 Universiti Teknologi Malaysia | National University of Malaysia (UKM)  
+<img width="675" height="201" alt="image" src="https://github.com/user-attachments/assets/4fef69e9-2a5f-4db1-9f4d-c8c3f0cae5df" />
+
 
 💼 Working as Mechanical Engineer at Public Works Department of Malaysia (PWD), Malaysia Government
+
+<img width="759" height="197" alt="image" src="https://github.com/user-attachments/assets/2afe0ff3-bdae-49f3-8aee-fedc687171d0" />
+
+
 
 📊 Passionate about Data Science, Data Analytics, AI & Visualization, IOT etc.
 
